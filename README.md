@@ -1,0 +1,2 @@
+# datafractalJS
+Data compression for faster transmission of shared data constant trough universal relations; such as Pi and golden ratio with effective pointing to data series in Pi with a timing aspect; every app and phenomena ever existed is somewhere in the number Pi and the beauty of it's binary representation  - it's just handy to have a fast pointer for it's data sets and here fractal geometry comes handy
